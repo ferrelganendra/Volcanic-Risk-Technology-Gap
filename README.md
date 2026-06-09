@@ -27,8 +27,8 @@ A Streamlit-based dashboard supporting undergraduate thesis research on the rela
 
 ```bash
 # Clone repository
-git clone https://github.com/ferrelganendra/Volcanic-Risk-Analysis.git
-cd Volcanic-Risk-Analysis
+git clone https://github.com/ferrelganendra/Volcanic-Risk-Technology-Gap.git
+cd Volcanic-Risk-Technology-Gap
 
 # Install dependencies
 pip install streamlit pandas numpy plotly scipy
@@ -115,8 +115,8 @@ Dashboard berbasis Streamlit untuk mendukung penelitian skripsi mengenai hubunga
 
 ```bash
 # Clone repositori
-git clone https://github.com/ferrelganendra/Volcanic-Risk-Analysis.git
-cd Volcanic-Risk-Analysis
+git clone https://github.com/ferrelganendra/Volcanic-Risk-Technology-Gap.git
+cd Volcanic-Risk-Technology-Gap
 
 # Install dependensi
 pip install streamlit pandas numpy plotly scipy
