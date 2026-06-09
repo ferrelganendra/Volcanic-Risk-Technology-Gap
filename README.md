@@ -1,5 +1,7 @@
 # Technology Capacity Gap and Volcanic Disaster Risk Dashboard
 
+---
+
 ## Description
 
 A Streamlit-based dashboard supporting undergraduate thesis research on the relationship between technology capacity and volcanic disaster risk across 55 countries. Analysis uses OLS regression with NRI (Network Readiness Index) as the independent variable and WRI (World Risk Index) as the dependent variable.
@@ -47,8 +49,7 @@ Dashboard accessible at `http://localhost:8501`.
 └── README.md
 ```
 
-`app.py` reads data from `Master Dataset.xlsx` — both files must be in the same directory.  
-Data sources: NRI 2024, World Risk Report 2024, GII 2024, World Bank GDP, INFORM Risk, GVP Smithsonian.
+`app.py` reads data from `Master Dataset.xlsx` — both files must be in the same directory.
 
 ---
 
@@ -65,6 +66,19 @@ Data sources: NRI 2024, World Risk Report 2024, GII 2024, World Bank GDP, INFORM
 
 ---
 
+## Data Sources
+
+| Dataset | Source |
+|---------|--------|
+| Network Readiness Index 2024 | https://networkreadinessindex.org |
+| World Risk Report 2024 | https://weltrisikobericht.de/worldriskreport |
+| Global Innovation Index 2024 | https://www.wipo.int/global_innovation_index |
+| GDP Per Capita 2024 | https://data.worldbank.org |
+| INFORM Risk Index 2024 | https://drmkc.jrc.ec.europa.eu/inform-index |
+| Global Volcanism Program | https://volcano.si.edu |
+
+---
+
 ## License
 
 Created for academic purposes. Commercial use is not permitted without the author's consent.
@@ -73,6 +87,8 @@ Created for academic purposes. Commercial use is not permitted without the autho
 ---
 
 # Dashboard Kesenjangan Kapasitas Teknologi dan Risiko Bencana Vulkanik
+
+---
 
 ## Deskripsi
 
@@ -121,8 +137,7 @@ Dashboard dapat diakses di `http://localhost:8501`.
 └── README.md
 ```
 
-`app.py` membaca data dari `Master Dataset.xlsx` — pastikan kedua file berada di direktori yang sama.  
-Sumber data: NRI 2024, World Risk Report 2024, GII 2024, World Bank GDP, INFORM Risk, GVP Smithsonian.
+`app.py` membaca data dari `Master Dataset.xlsx` — pastikan kedua file berada di direktori yang sama.
 
 ---
 
@@ -136,6 +151,19 @@ Sumber data: NRI 2024, World Risk Report 2024, GII 2024, World Bank GDP, INFORM 
 | NRI Indonesia | 53.84 |
 | WRI Indonesia | 41.13 |
 | Residual Indonesia | +27.70 |
+
+---
+
+## Sumber Data
+
+| Dataset | Sumber |
+|---------|--------|
+| Network Readiness Index 2024 | https://networkreadinessindex.org |
+| World Risk Report 2024 | https://weltrisikobericht.de/worldriskreport |
+| Global Innovation Index 2024 | https://www.wipo.int/global_innovation_index |
+| GDP Per Capita 2024 | https://data.worldbank.org |
+| INFORM Risk Index 2024 | https://drmkc.jrc.ec.europa.eu/inform-index |
+| Global Volcanism Program | https://volcano.si.edu |
 
 ---
 
